@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import time
-from teamName import getMyPosition as getPosition
+from JeffAvenue import getMyPosition as getPosition
 
 nInst = 0
 nt = 0
